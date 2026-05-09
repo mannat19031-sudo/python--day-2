@@ -1,0 +1,6 @@
+def anu_bol(naam):
+    print(naam)
+    print("google me job pakki hai")
+
+anu_bol("BatalA ki Sugar")
+anu_bol("Mannat")
