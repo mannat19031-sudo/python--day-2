@@ -1,0 +1,13 @@
+marks = 85
+
+print("Mannat ke marks:")
+print(marks)
+
+if marks > 90:
+    print("Google me job pakki hai")
+    print("BatalA ki Sugar rocks")
+else:
+    print("Phir bhi Google me job pakki hai")
+    print("Kyunki mehnat zinda hai")
+
+print("Code khatam. Mannat pass.")
